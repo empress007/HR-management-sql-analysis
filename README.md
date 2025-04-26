@@ -2,7 +2,7 @@
 
 ![images hr](https://github.com/user-attachments/assets/f22ed247-7e61-422e-8d99-ee2221c63c99)
 
-# 💻 Table of content
+# 💻 Table of contents
 
 - [Introduction](#introduction)
 - [Dataset Overview](#dataset-overview)
