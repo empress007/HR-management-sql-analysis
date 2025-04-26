@@ -2,15 +2,17 @@
 
 ![images hr](https://github.com/user-attachments/assets/f22ed247-7e61-422e-8d99-ee2221c63c99)
 
-## 💻 Table of content
+# 💻 Table of content
 
-- [introduction](#Introduction).
-- [Dataset-Overview](#Dataset-Overwiew).
-- [Project-Objectives](#Dataset-Objective).
-- [Data-Cleaning](#Data-Cleaning).
-- [Data-exploration and Insight](#Data-exploration-and-insight).
-- [Recommendation](#Recommendation).
-- [Conclusion](#Conclusion).
+- [Introduction](#introduction)
+- [Dataset Overview](#dataset-overview)
+- [Project Objectives](#project-objectives)
+- [Data Cleaning](#data-cleaning)
+- [Data Exploration and Insight](#data-exploration-and-insight)
+- [Recommendation](#recommendation)
+- [Conclusion](#conclusion)
+- [Tech Stack](#tech-stack)
+  
 
 ---
 
