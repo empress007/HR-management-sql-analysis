@@ -23,7 +23,9 @@ This project focuses on analyzing human resources data using SQL to help the HR 
 ---
 
 ## 📊 Dataset Overview
-The dataset used in analysis consists of 14 colums and 22195 rows
+
+The dataset used in the analysis consists of 14 columns and 22,195 rows
+
 ![Screenshot 2025-04-25 hr](https://github.com/user-attachments/assets/44f33b33-1032-4975-bce8-5d29ee9b063b)
 
 The dataset consists of records for employees in various departments, including their demographics, job location (remote or HQ), tenure, employment status, race, age, and more.
@@ -51,7 +53,8 @@ The dataset consists of records for employees in various departments, including 
 - Identify the longest-serving employees
 - Evaluate termination data and diversity factors
 
- ## Problem Statement
+### 📋 Problem Statement
+
  
 Using the HR Management data, your company requires you to delve into data analysis using SQL to
 uncover insights for HR department 
@@ -125,7 +128,7 @@ This HR data analysis project demonstrates how SQL can be leveraged to surface c
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tech Stack
 
 - SQL (MySQL / PostgreSQL)
 - Git & GitHub
