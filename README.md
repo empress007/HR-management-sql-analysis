@@ -8,7 +8,7 @@
 - [Dataset Overview](#dataset-overview)
 - [Project Objectives](#project-objectives)
 - [Data Cleaning](#data-cleaning)
-- [Data Exploration and Insight](#data-exploration-and-insight)
+- [Data Exploration and Insights](#data-exploration-and-insights)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 - [Tech Stack](#tech-stack)
@@ -86,7 +86,7 @@ Before analysis, the following cleaning steps were applied:
 
 ---
 
-## 🔍 Data Exploration and Insight
+## 🔍 Data Exploration and Insights
 
 ### 🧑‍🤝‍🧑 Demographics
 - Gender distribution across the company
@@ -110,7 +110,7 @@ Before analysis, the following cleaning steps were applied:
 
 ---
 
-## ✅ Recommendations
+## ✅ Recommendation
 
 Based on the insights gathered:
 
