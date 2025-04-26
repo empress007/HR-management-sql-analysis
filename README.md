@@ -1,7 +1,9 @@
 # 👩‍💼 HR Management Data Analysis 
+
 ![images hr](https://github.com/user-attachments/assets/f22ed247-7e61-422e-8d99-ee2221c63c99)
 
 ## 💻 Table of content
+
 - [introduction](#Introduction).
 - [Dataset-Overview](#Dataset-Overwiew).
 - [Project-Objectives](#Dataset-Objective).
@@ -9,6 +11,8 @@
 - [Data-exploration and Insight](#Data-exploration-and-insight).
 - [Recommendation](#Recommendation).
 - [Conclusion](#Conclusion).
+
+---
 
 ## 📌 Introduction
 
@@ -123,7 +127,7 @@ This HR data analysis project demonstrates how SQL can be leveraged to surface c
 
 - SQL (MySQL / PostgreSQL)
 - Git & GitHub
-- Visual Studio Code / DBeaver
+- MySQL Workbench
 
 ---
 
